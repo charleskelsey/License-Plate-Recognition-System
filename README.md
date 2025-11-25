@@ -23,8 +23,6 @@ It is composed of three core stages:
 7. **Character recognition** — train a classifier (SVM / SVC) to predict character labels. (**machine_train.py**)
 8. **Inference** — apply the trained model to recognize characters on new images. (**prediction.py**)
 
-## Outputs
-
 ## Dependencies
 
 Here are some of the key Python packages used in the project (per original tutorial):
